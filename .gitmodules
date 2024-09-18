@@ -1,0 +1,6 @@
+[submodule "bbb"]
+	path = bbb
+	url = https://github.com/juanfish/bbb
+[submodule "ccc"]
+	path = ccc
+	url = https://github.com/juanfish/ccc
